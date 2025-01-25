@@ -1,0 +1,1833 @@
+{
+    "Record": {
+        "RecordType": "CID",
+        "RecordNumber": 2947,
+        "RecordTitle": "Damirone B",
+        "Section": [
+            {
+                "TOCHeading": "Structures",
+                "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+                "Section": [
+                    {
+                        "TOCHeading": "2D Structure",
+                        "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (H\u00e4hnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+                        "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+                        "DisplayControls": {
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "Boolean": [
+                                        true
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "3D Conformer",
+                        "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+                        "URL": "https://doi.org/10.1186/1758-2946-5-1",
+                        "DisplayControls": {
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Description": "Damirone B",
+                                "Value": {
+                                    "Number": [
+                                        2947
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Names and Identifiers",
+                "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+                "Section": [
+                    {
+                        "TOCHeading": "Record Description",
+                        "Description": "Summary Information",
+                        "DisplayControls": {
+                            "HideThisSection": true,
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 7,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Damirone B has been reported in Zyzzya fuliginosa and Zyzzya with data available.",
+                                            "Markup": [
+                                                {
+                                                    "Start": 32,
+                                                    "Length": 17,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/1346156#section=Natural-Products"
+                                                },
+                                                {
+                                                    "Start": 54,
+                                                    "Length": 6,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/561730#section=Natural-Products"
+                                                },
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 10,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Damirone%20B",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2947"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Computed Descriptors",
+                        "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+                        "Section": [
+                            {
+                                "TOCHeading": "IUPAC Name",
+                                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Lexichem TK 2.7.0 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7-methyl-2,7-diazatricyclo[6.3.1.04,12]dodeca-1(12),3,8-triene-10,11-dione",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 34,
+                                                            "Length": 4,
+                                                            "Type": "Superscript"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "InChI",
+                                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by InChI 1.0.6 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "InChI=1S/C11H10N2O2/c1-13-3-2-6-5-12-10-9(6)7(13)4-8(14)11(10)15/h4-5,12H,2-3H2,1H3"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "InChIKey",
+                                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by InChI 1.0.6 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "JYLGJUYDUWMFOL-UHFFFAOYSA-N"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "SMILES",
+                                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by OEChem 2.3.0 (PubChem release 2024.12.12)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "CN1CCC2=CNC3=C2C1=CC(=O)C3=O"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Molecular Formula",
+                        "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+                        "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+                        "DisplayControls": {
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Reference": [
+                                    "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                                ],
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "C11H10N2O2"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Other Identifiers",
+                        "Description": "Other identifiers assigned to this chemical.",
+                        "Section": [
+                            {
+                                "TOCHeading": "CAS",
+                                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 2,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "138683-67-7"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "CAS",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "138683-67-7"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 4,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "138683-67-7"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "ChEMBL ID",
+                                "Description": "ChEMBL compound identifier",
+                                "URL": "https://www.ebi.ac.uk/chembl/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "URL": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL462951",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "CHEMBL462951"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "DSSTox Substance ID",
+                                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 4,
+                                        "URL": "https://comptox.epa.gov/dashboard/DTXSID40930190",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "DTXSID40930190"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Metabolomics Workbench ID",
+                                "Description": "Registration number used by Metabolomics Workbench",
+                                "URL": "https://www.metabolomicsworkbench.org/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 8,
+                                        "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=136140",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "136140"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Nikkaji Number",
+                                "Description": "Substance identifier used in the Japan Chemical Substance Dictionary (Nikkaji).",
+                                "URL": "https://jglobal.jst.go.jp/en/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 5,
+                                        "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J825.292K",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "J825.292K"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "NSC Number",
+                                "Description": "The National Service Center (NSC) number is a numeric identifier for substances submitted to the National Cancer Institute (NCI) for testing and evaluation. It is a registration number for the Developmental Therapeutics Program (DTP) repository.",
+                                "URL": "https://dtp.cancer.gov/organization/dscb/compoundSubmission/faqs.htm",
+                                "DisplayControls": {
+                                    "ShowAtMost": 3
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "NSC Number",
+                                        "URL": "https://dtp.cancer.gov/dtpstandard/servlet/dwindex?searchtype=NSC&outputformat=html&searchlist=700004",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "700004"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Wikidata",
+                                "Description": "Wikidata entity identifier for the given compound.",
+                                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 14,
+                                        "URL": "https://www.wikidata.org/wiki/Q82905432",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Q82905432"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Synonyms",
+                        "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+                        "Section": [
+                            {
+                                "TOCHeading": "Depositor-Supplied Synonyms",
+                                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                                "DisplayControls": {
+                                    "ListType": "Columns",
+                                    "MoveToTop": true
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Damirone B"
+                                                },
+                                                {
+                                                    "String": "138683-67-7"
+                                                },
+                                                {
+                                                    "String": "7-methyl-2,7-diazatricyclo[6.3.1.04,12]dodeca-1(12),3,8-triene-10,11-dione"
+                                                },
+                                                {
+                                                    "String": "5-Methyl-4,5-dihydropyrrolo[4,3,2-de]quinoline-7,8(1H,3H)-dione"
+                                                },
+                                                {
+                                                    "String": "Pyrrolo[4,3,2-de]quinoline-7,8-dione, 1,3,4,5-tetrahydro-5-methyl- (9CI)"
+                                                },
+                                                {
+                                                    "String": "CHEMBL462951"
+                                                },
+                                                {
+                                                    "String": "SCHEMBL9263961"
+                                                },
+                                                {
+                                                    "String": "JYLGJUYDUWMFOL-UHFFFAOYSA-"
+                                                },
+                                                {
+                                                    "String": "DTXSID40930190"
+                                                },
+                                                {
+                                                    "String": "5-methyl-1,3,4,5-tetrahydropyrrolo[4,3,2-de]quinoline-7,8-dione"
+                                                },
+                                                {
+                                                    "String": "NSC700004"
+                                                },
+                                                {
+                                                    "String": "NSC 700004"
+                                                },
+                                                {
+                                                    "String": "NSC-700004"
+                                                },
+                                                {
+                                                    "String": "Pyrrolo(4,3,2-de)quinoline-7,8-dione, 1,3,4,5-tetrahydro-5-methyl-"
+                                                },
+                                                {
+                                                    "String": "Pyrrolo[4,2-de]quinoline-7,8-dione, 1,3,4,5-tetrahydro-5-methyl-"
+                                                },
+                                                {
+                                                    "String": "InChI=1/C11H10N2O2/c1-13-3-2-6-5-12-10-9(6)7(13)4-8(14)11(10)15/h4-5,12H,2-3H2,1H3"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Removed Synonyms",
+                                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                                "DisplayControls": {
+                                    "HideThisSection": true
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "methyl[?]dione"
+                                                },
+                                                {
+                                                    "String": "AC1L1ETW"
+                                                },
+                                                {
+                                                    "String": "CTK6I2650"
+                                                },
+                                                {
+                                                    "String": "CID2947"
+                                                },
+                                                {
+                                                    "String": "CID 2947"
+                                                },
+                                                {
+                                                    "String": "7-methyl-2,7-diazatricyclo[6.3.1.0?,??]dodeca-1(12),3,8-triene-10,11-dione"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Create Date",
+                        "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+                        "DisplayControls": {
+                            "HideThisSection": true,
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "DateISO8601": [
+                                        "2005-03-25"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Modify Date",
+                        "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+                        "DisplayControls": {
+                            "HideThisSection": true,
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "DateISO8601": [
+                                        "2025-01-18"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Chemical and Physical Properties",
+                "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+                "Section": [
+                    {
+                        "TOCHeading": "Computed Properties",
+                        "Description": "Properties of this compound computed from its molecular formula and structure.",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "Subsections",
+                                "NumberOfColumns": 3,
+                                "ColumnHeadings": [
+                                    "Property Name",
+                                    "Property Value",
+                                    "Reference"
+                                ],
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value",
+                                    "Reference"
+                                ]
+                            }
+                        },
+                        "Section": [
+                            {
+                                "TOCHeading": "Molecular Weight",
+                                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                                "DisplayControls": {
+                                    "MoveToTop": true
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "202.21"
+                                                }
+                                            ],
+                                            "Unit": "g/mol"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "XLogP3",
+                                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Name": "XLogP3-AA",
+                                        "Reference": [
+                                            "Computed by XLogP3 3.0 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0.5
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Hydrogen Bond Donor Count",
+                                "Description": "The number of hydrogen bond donors in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                1
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                                "Description": "The number of hydrogen bond acceptors in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                3
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Rotatable Bond Count",
+                                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Exact Mass",
+                                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "202.074227566"
+                                                }
+                                            ],
+                                            "Unit": "Da"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Monoisotopic Mass",
+                                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "202.074227566"
+                                                }
+                                            ],
+                                            "Unit": "Da"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Topological Polar Surface Area",
+                                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                53.2
+                                            ],
+                                            "Unit": "\u212b\u00b2"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Heavy Atom Count",
+                                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                15
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Formal Charge",
+                                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Complexity",
+                                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                375
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Isotope Atom Count",
+                                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Defined Atom Stereocenter Count",
+                                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Undefined Atom Stereocenter Count",
+                                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Defined Bond Stereocenter Count",
+                                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Undefined Bond Stereocenter Count",
+                                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Covalently-Bonded Unit Count",
+                                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                1
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Compound Is Canonicalized",
+                                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem (release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Yes"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Spectral Information",
+                "Description": "Spectral data for this compound, including 1-D and 2-D nuclear magnetic resonance (NMR), Infrared (IR), Raman, and Ultraviolet (UV) spectroscopy, mass spectrometry (MS), and chromatography.",
+                "Section": [
+                    {
+                        "TOCHeading": "1D NMR Spectra",
+                        "Description": "One-dimensional (1D) nuclear magnetic resonance (NMR) spectra.",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "ThisSection",
+                                "NumberOfColumns": 2,
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value"
+                                ]
+                            },
+                            "ShowAtMost": 2
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 9,
+                                "Name": "1D NMR Spectra",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "NMRShiftDB Link",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 15,
+                                                    "URL": "http://nmrshiftdb.nmr.uni-koeln.de/portal/js_pane/P-Results/nmrshiftdbaction/showDetailsFromHome/molNumber/20181335"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "Section": [
+                            {
+                                "TOCHeading": "13C NMR Spectra",
+                                "Description": "Carbon-13 nuclear magnetic resonance (NMR) spectroscopy (also known as 13C NMR) is a version of NMR spectroscopy used to elucidate the structure of carbon-containing compounds.",
+                                "DisplayControls": {
+                                    "CreateTable": {
+                                        "FromInformationIn": "ThisSection",
+                                        "NumberOfColumns": 2,
+                                        "ColumnContents": [
+                                            "Name",
+                                            "Value"
+                                        ]
+                                    },
+                                    "ShowAtMost": 2
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 10,
+                                        "Name": "Copyright",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Copyright \u00a9 2016-2024 W. Robien, Inst. of Org. Chem., Univ. of Vienna. All Rights Reserved."
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 10,
+                                        "Name": "Thumbnail",
+                                        "URL": "https://spectrabase.com/spectrum/1yZmj0p0305",
+                                        "Value": {
+                                            "ExternalDataURL": [
+                                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/4531600_1"
+                                            ],
+                                            "MimeType": "image/png"
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 11,
+                                        "Name": "Copyright",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Copyright \u00a9 2016-2024 W. Robien, Inst. of Org. Chem., Univ. of Vienna. All Rights Reserved."
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 11,
+                                        "Name": "Thumbnail",
+                                        "URL": "https://spectrabase.com/spectrum/H5OmlBsvhBm",
+                                        "Value": {
+                                            "ExternalDataURL": [
+                                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/4531601_1"
+                                            ],
+                                            "MimeType": "image/png"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Mass Spectrometry",
+                        "Description": "Mass spectrometry (MS or mass spec) is a technique to determine molecular structure through ionization and fragmentation of the parent compound into smaller components.",
+                        "URL": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Spectroscopy/Mass_Spectrometry",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "ThisSection",
+                                "NumberOfColumns": 2,
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value"
+                                ]
+                            },
+                            "ShowAtMost": 2
+                        },
+                        "Section": [
+                            {
+                                "TOCHeading": "GC-MS",
+                                "Description": "Data from gas chromatography-mass spectrometry (GC-MS) experiments.",
+                                "URL": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Structure_and_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_(Schaller)/II%3A_Practical_Aspects_of_Structure_-_Purification_and_Spectroscopy/06%3A_Introductory_Mass_Spectrometry/6.03%3A_GC-MS_and_LC-MS",
+                                "DisplayControls": {
+                                    "CreateTable": {
+                                        "FromInformationIn": "ThisSection",
+                                        "NumberOfColumns": 2,
+                                        "ColumnContents": [
+                                            "Name",
+                                            "Value"
+                                        ]
+                                    },
+                                    "ShowAtMost": 2
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 12,
+                                        "Name": "Source of Spectrum",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "X2-54-1133-9"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 12,
+                                        "Name": "Copyright",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Copyright \u00a9 2020-2024 John Wiley & Sons, Inc. All Rights Reserved."
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 12,
+                                        "Name": "Thumbnail",
+                                        "URL": "https://spectrabase.com/spectrum/DEe352qDp3C",
+                                        "Value": {
+                                            "ExternalDataURL": [
+                                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/36400647_1"
+                                            ],
+                                            "MimeType": "image/png"
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 13,
+                                        "Name": "Source of Spectrum",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "AT-34-2408-2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 13,
+                                        "Name": "Copyright",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Copyright \u00a9 2020-2024 John Wiley & Sons, Inc. All Rights Reserved."
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 13,
+                                        "Name": "Thumbnail",
+                                        "URL": "https://spectrabase.com/spectrum/E3YRA2Wki",
+                                        "Value": {
+                                            "ExternalDataURL": [
+                                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/36400648_1"
+                                            ],
+                                            "MimeType": "image/png"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Related Records",
+                "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+                "Section": [
+                    {
+                        "TOCHeading": "Related Compounds with Annotation",
+                        "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+                        "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see here for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                                            "Markup": [
+                                                {
+                                                    "Start": 22,
+                                                    "Length": 19,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2947%20structure&tab=similarity&sort=annothitcnt"
+                                                },
+                                                {
+                                                    "Start": 45,
+                                                    "Length": 19,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2947%20structure&tab=similarity_3d&sort=annothitcnt"
+                                                },
+                                                {
+                                                    "Start": 144,
+                                                    "Length": 4,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Related Compounds",
+                        "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+                        "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "ThisSection",
+                                "NumberOfColumns": 2,
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value"
+                                ]
+                            },
+                            "ShowAtMost": 1
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2947/cids/JSON?cids_type=component&list_return=redirect",
+                                "Value": {
+                                    "Number": [
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Similar Compounds (2D)",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2947%20structure&tab=similarity",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "View in PubChem Search"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Similar Conformers (3D)",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2947%20structure&tab=similarity_3d",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "View in PubChem Search"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Substances",
+                        "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+                        "Section": [
+                            {
+                                "TOCHeading": "Related Substances",
+                                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                                "DisplayControls": {
+                                    "CreateTable": {
+                                        "FromInformationIn": "ThisSection",
+                                        "NumberOfColumns": 2,
+                                        "ColumnContents": [
+                                            "Name",
+                                            "Value"
+                                        ]
+                                    },
+                                    "ShowAtMost": 1
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Name": "All Count",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2947/sids/JSON?sids_type=all&list_return=redirect",
+                                        "Value": {
+                                            "Number": [
+                                                39
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Name": "Same Count",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2947/sids/JSON?sids_type=standardized&list_return=redirect",
+                                        "Value": {
+                                            "Number": [
+                                                32
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Name": "Mixture Count",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2947/sids/JSON?sids_type=component&list_return=redirect",
+                                        "Value": {
+                                            "Number": [
+                                                7
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Substances by Category",
+                                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Chemical Vendors"
+                                                },
+                                                {
+                                                    "String": "Curation Efforts"
+                                                },
+                                                {
+                                                    "String": "Governmental Organizations"
+                                                },
+                                                {
+                                                    "String": "Journal Publishers"
+                                                },
+                                                {
+                                                    "String": "Legacy Depositors"
+                                                },
+                                                {
+                                                    "String": "Research and Development"
+                                                },
+                                                {
+                                                    "String": "Subscription Services"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Chemical Vendors",
+                "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+                "Information": [
+                    {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                            "Boolean": [
+                                true
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Literature",
+                "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+                "Section": [
+                    {
+                        "TOCHeading": "Consolidated References",
+                        "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "ExternalTableName": "literature"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical Co-Occurrences in Literature",
+                        "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+                        "URL": "https://doi.org/10.3389/frma.2021.689059",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "ChemicalNeighbor"
+                                        },
+                                        {
+                                            "String": "Chemical"
+                                        },
+                                        {
+                                            "String": "ChemicalName_1"
+                                        },
+                                        {
+                                            "String": "ChemicalName_2"
+                                        },
+                                        {
+                                            "String": "SUMMARY_URL.cid"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+                        "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+                        "URL": "https://doi.org/10.3389/frma.2021.689059",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "ChemicalGeneSymbolNeighbor"
+                                        },
+                                        {
+                                            "String": "Gene/Protein/Enzyme"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "GeneSymbolName"
+                                        },
+                                        {
+                                            "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "GeneSymbol"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+                        "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+                        "URL": "https://doi.org/10.3389/frma.2021.689059",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "ChemicalDiseaseNeighbor"
+                                        },
+                                        {
+                                            "String": "Disease"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "DiseaseName"
+                                        },
+                                        {
+                                            "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "MeSH"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Patents",
+                "Description": "Patent applications/documents that mention this compound.",
+                "DisplayControls": {
+                    "ListType": "Columns"
+                },
+                "Section": [
+                    {
+                        "TOCHeading": "Depositor-Supplied Patent Identifiers",
+                        "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "ExternalTableName": "patent"
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Link to all deposited patent identifiers",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 40,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2947/xrefs/PatentID/TXT"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical Co-Occurrences in Patents",
+                        "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "PatentChemicalChemical"
+                                        },
+                                        {
+                                            "String": "Chemical"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "NeighborName"
+                                        },
+                                        {
+                                            "String": "SUMMARY_URL.cid"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+                        "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "PatentChemicalDisease"
+                                        },
+                                        {
+                                            "String": "Disease"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "NeighborName"
+                                        },
+                                        {
+                                            "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "MeSH"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+                        "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "PatentChemicalGene"
+                                        },
+                                        {
+                                            "String": "Gene"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "NeighborName"
+                                        },
+                                        {
+                                            "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "GeneSymbol"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Biological Test Results",
+                "Description": "A PubChem substance or compound summary page displays biological test results from the PubChem BioAssay database, if/as available, for the chemical structure currently displayed. You can embed biological test results displays within your own web pages, for a PubChem Compound or Substance of interest, by using the BioActivity Widget.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/widgets",
+                "Section": [
+                    {
+                        "TOCHeading": "BioAssay Results",
+                        "Description": "Bioactivity data for this compound, reported in PubChem BioAssay records.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "ExternalTableName": "bioactivity"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Taxonomy",
+                "Description": "Organism-specific information about where this compound originated or is associated",
+                "Information": [
+                    {
+                        "ReferenceNumber": 6,
+                        "Value": {
+                            "ExternalTableName": "consolidatedcompoundtaxonomy"
+                        }
+                    },
+                    {
+                        "ReferenceNumber": 7,
+                        "Reference": [
+                            "The LOTUS Initiative for Open Natural Products Research: frozen dataset union wikidata (with metadata) | DOI:10.5281/zenodo.5794106"
+                        ],
+                        "Value": {
+                            "ExternalTableName": "consolidatedcompoundtaxonomy"
+                        }
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Classification",
+                "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+                "Section": [
+                    {
+                        "TOCHeading": "ChemIDplus",
+                        "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+                        "URL": "https://chem.nlm.nih.gov/chemidplus/",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 17,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                                "Value": {
+                                    "Number": [
+                                        84
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "EPA DSSTox Classification",
+                        "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+                        "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 18,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                                "Value": {
+                                    "Number": [
+                                        105
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "LOTUS Tree",
+                        "Description": "Biological and chemical tree provided by the naturaL prOducTs occUrrence databaSe (LOTUS)",
+                        "URL": "https://lotus.naturalproducts.net/",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 20,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=115",
+                                "Value": {
+                                    "Number": [
+                                        115
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "MolGenie Organic Chemistry Ontology",
+                        "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign compounds to structural classes, currently mapped to >1.7 million per- and polyfluoroalkyl substances (PFAS) extracted from the datasets explained in Barnabas et al (2022) DOI: 10.1039/D2DD00019A",
+                        "URL": "https://github.com/MolGenie/ontology/",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 21,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=134",
+                                "Value": {
+                                    "Number": [
+                                        134
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Reference": [
+            {
+                "ReferenceNumber": 1,
+                "SourceName": "ChEMBL",
+                "SourceID": "Compound::CHEMBL462951",
+                "Description": "ChEMBL or ChEMBLdb is a manually curated chemical database of bioactive molecules with drug-like properties. It is maintained by the European Bioinformatics Institute (EBI), of the European Molecular Biology Laboratory (EMBL), based at the Wellcome Trust Genome Campus, Hinxton, UK.",
+                "URL": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL462951",
+                "LicenseNote": "Access to the web interface of ChEMBL is made under the EBI's Terms of Use (http://www.ebi.ac.uk/Information/termsofuse.html). The ChEMBL data is made available on a Creative Commons Attribution-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-sa/3.0/).",
+                "LicenseURL": "http://www.ebi.ac.uk/Information/termsofuse.html",
+                "ANID": 31731605
+            },
+            {
+                "ReferenceNumber": 2,
+                "SourceName": "ChemIDplus",
+                "SourceID": "0138683677",
+                "Name": "Damirone B",
+                "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0138683677",
+                "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+                "IsToxnet": true,
+                "ANID": 1110970
+            },
+            {
+                "ReferenceNumber": 3,
+                "SourceName": "DTP/NCI",
+                "SourceID": "NSC 700004",
+                "Name": "Damirone B",
+                "Description": "The NCI Development Therapeutics Program (DTP) provides services and resources to the academic and private-sector research communities worldwide to facilitate the discovery and development of new cancer therapeutic agents.",
+                "URL": "https://dtp.cancer.gov/dtpstandard/servlet/dwindex?searchtype=NSC&outputformat=html&searchlist=700004",
+                "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+                "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse",
+                "ANID": 6614792
+            },
+            {
+                "ReferenceNumber": 4,
+                "SourceName": "EPA DSSTox",
+                "SourceID": "DTXSID40930190",
+                "Name": "5-Methyl-1,3,4,5-tetrahydropyrrolo[4,3,2-de]quinoline-7,8-dione",
+                "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+                "URL": "https://comptox.epa.gov/dashboard/DTXSID40930190",
+                "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+                "ANID": 17688116
+            },
+            {
+                "ReferenceNumber": 5,
+                "SourceName": "Japan Chemical Substance Dictionary (Nikkaji)",
+                "SourceID": "J825.292K",
+                "Description": "The Japan Chemical Substance Dictionary (Nikkaji) has a search system that helps obtain knowledge from dissimilar fields and discover concepts that cross boundaries of specializations.",
+                "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J825.292K",
+                "ANID": 22872396
+            },
+            {
+                "ReferenceNumber": 6,
+                "SourceName": "KNApSAcK Species-Metabolite Database",
+                "SourceID": "Compound::C00027084",
+                "Name": "Damirone B",
+                "Description": "KNApSAcK is a comprehensive species-metabolite relationship database for analyzing datasets of mass spectra that are prepared according to a particular format, as well as for retrieving information on metabolites.",
+                "URL": "http://www.knapsackfamily.com/knapsack_core/info.php?sname=C_ID&word=C00027084",
+                "ANID": 20104832
+            },
+            {
+                "ReferenceNumber": 7,
+                "SourceName": "LOTUS - the natural products occurrence database",
+                "SourceID": "Q82905432",
+                "Name": "Damirone B",
+                "Description": "LOTUS is one of the biggest and best annotated resources for natural products occurrences available free of charge and without any restriction.",
+                "URL": "https://www.wikidata.org/wiki/Q82905432",
+                "LicenseNote": "The code for LOTUS is released under the GNU General Public License v3.0.",
+                "LicenseURL": "https://lotus.nprod.net/",
+                "ANID": 19836096
+            },
+            {
+                "ReferenceNumber": 8,
+                "SourceName": "Metabolomics Workbench",
+                "SourceID": "136140",
+                "Name": "Damirone B",
+                "Description": "The Metabolomics Workbench serves as a national and international repository for metabolomics data and metadata and provides analysis tools and access to metabolite standards, protocols, tutorials, training, and more.",
+                "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=136140",
+                "ANID": 20282574
+            },
+            {
+                "ReferenceNumber": 9,
+                "SourceName": "NMRShiftDB",
+                "SourceID": "20181335",
+                "Description": "NMRShiftDB(2) is a NMR database (web database) for organic structures and their nuclear magnetic resonance (nmr) spectra. It allows for spectrum prediction (13C, 1H and other nuclei) as well as for searching spectra, structures and other properties. http://nmrshiftdb.nmr.uni-koeln.de/",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/87689284",
+                "ANID": 6461442
+            },
+            {
+                "ReferenceNumber": 10,
+                "SourceName": "SpectraBase",
+                "SourceID": "1yZmj0p0305",
+                "Name": "DAMIRONE-B",
+                "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+                "URL": "https://spectrabase.com/spectrum/1yZmj0p0305",
+                "ANID": 4531600
+            },
+            {
+                "ReferenceNumber": 11,
+                "SourceName": "SpectraBase",
+                "SourceID": "H5OmlBsvhBm",
+                "Name": "JYLGJUYDUWMFOL-UHFFFAOYSA-N",
+                "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+                "URL": "https://spectrabase.com/spectrum/H5OmlBsvhBm",
+                "ANID": 4531601
+            },
+            {
+                "ReferenceNumber": 12,
+                "SourceName": "SpectraBase",
+                "SourceID": "DEe352qDp3C",
+                "Name": "Damirone B",
+                "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+                "URL": "https://spectrabase.com/spectrum/DEe352qDp3C",
+                "ANID": 36400647
+            },
+            {
+                "ReferenceNumber": 13,
+                "SourceName": "SpectraBase",
+                "SourceID": "E3YRA2Wki",
+                "Name": "Damirone B",
+                "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+                "URL": "https://spectrabase.com/spectrum/E3YRA2Wki",
+                "ANID": 36400648
+            },
+            {
+                "ReferenceNumber": 14,
+                "SourceName": "Wikidata",
+                "SourceID": "Compound::Q82905432",
+                "Name": "Damirone B",
+                "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+                "URL": "https://www.wikidata.org/wiki/Q82905432",
+                "LicenseNote": "CCZero",
+                "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "ANID": 45047065
+            },
+            {
+                "ReferenceNumber": 15,
+                "SourceName": "PubChem",
+                "SourceID": "PubChem",
+                "Description": "Data deposited in or computed by PubChem",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov"
+            },
+            {
+                "ReferenceNumber": 17,
+                "SourceName": "ChemIDplus",
+                "SourceID": "ChemIDplus_tree",
+                "Name": "ChemIDplus Chemical Information Classification",
+                "Description": "ChemIDplus is a TOXNET (TOXicology Data NETwork) databases that contain chemicals and drugs related information. It is a product of the National Library of Medicine (NLM).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/ChemIDplus",
+                "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+                "IsToxnet": true
+            },
+            {
+                "ReferenceNumber": 18,
+                "SourceName": "EPA DSSTox",
+                "SourceID": "dsstoxlist_tree",
+                "Name": "CompTox Chemicals Dashboard Chemical Lists",
+                "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.<br>Update: 2025-01-10 05:14:20",
+                "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+                "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+            },
+            {
+                "ReferenceNumber": 20,
+                "SourceName": "LOTUS - the natural products occurrence database",
+                "SourceID": "biochem",
+                "Name": "LOTUS Tree",
+                "Description": "Biological and chemical tree provided by the LOTUS (naturaL products occurrence database)",
+                "URL": "https://lotus.naturalproducts.net/",
+                "LicenseNote": "The code for LOTUS is released under the GNU General Public License v3.0.",
+                "LicenseURL": "https://lotus.nprod.net/"
+            },
+            {
+                "ReferenceNumber": 21,
+                "SourceName": "MolGenie",
+                "SourceID": "mol_classes",
+                "Name": "MolGenie Organic Chemistry Ontology",
+                "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign chemical entities to structural classes, split into three main subsections: calculated properties, compounds and substructural concepts. The ontology contains chemistry structural classes with a focus on elements and small organic compounds, but not inorganic, polymer, biopolymer, metal complexes, metal organic frameworks (MOFs) and other chemistry entities. The ontology has been mapped to several collections of chemicals, including (a) Chemicals of Biological Interest (ChEBI), (b) the ChEMBL database of bioactive molecules, (c) the LOTUS natural product collection, (d) per- and polyfluoroalkyl substances (PFAS) extracted from Barnabas et al (2022) DOI: 10.1039/D2DD00019A (e) PubChemLite and (f) the ZeroPM Global Chemical Inventory.",
+                "URL": "https://github.com/MolGenie/ontology/",
+                "LicenseNote": "CC-BY 4.0",
+                "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ]
+    }
+}

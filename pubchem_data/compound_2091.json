@@ -1,0 +1,2607 @@
+{
+    "Record": {
+        "RecordType": "CID",
+        "RecordNumber": 2091,
+        "RecordTitle": "5-[2-[7a-methyl-1-(6-methylheptan-2-yl)-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol",
+        "Section": [
+            {
+                "TOCHeading": "Structures",
+                "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+                "Section": [
+                    {
+                        "TOCHeading": "2D Structure",
+                        "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (H\u00e4hnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+                        "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+                        "DisplayControls": {
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "Boolean": [
+                                        true
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "3D Status",
+                        "Description": "The reason why three-dimensional (3D) conformers for this compound cannot be generated.  PubChem generates 3D conformers for each compound that satisfies the following conditions: [1] not too large (with <= 50 non-hydrogen atoms), [2] not too flexible (with <= 15 rotatable bonds), [3] consisting of only supported elements (H, C, N, O, F, Si, P, S, Cl, Br, and I), [4] having only a single covalent unit (i.e., not a salt or a mixture), [5] contains only atom types recognized by the MMFF94s force field used for conformer generation, and [6] has fewer than six undefined atom or bond stereo centers.  Compounds that do not satisfy any of these conditions are not considered for 3-D conformer generation.  In some rare cases, a compound satisfies all conditions but the conformer generation for the compound fails for some reason. More detailed information on 3D conformer generation can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+                        "URL": "https://doi.org/10.1186/1758-2946-5-1",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Conformer generation is disallowed since too many undefined stereo centers"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Chemical Safety",
+                "Description": "Link to the Safety and Hazard section of this page and link to the Laboratory Chemical Safety Summary (LCSS) datasheet for this compound.",
+                "DisplayControls": {
+                    "HideThisSection": true,
+                    "MoveToTop": true
+                },
+                "Information": [
+                    {
+                        "ReferenceNumber": 15,
+                        "Name": "Chemical Safety",
+                        "Value": {
+                            "StringWithMarkup": [
+                                {
+                                    "String": "          ",
+                                    "Markup": [
+                                        {
+                                            "Start": 0,
+                                            "Length": 1,
+                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS06.svg",
+                                            "Type": "Icon",
+                                            "Extra": "Acute Toxic"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Names and Identifiers",
+                "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+                "Section": [
+                    {
+                        "TOCHeading": "Record Description",
+                        "Description": "Summary Information",
+                        "DisplayControls": {
+                            "HideThisSection": true,
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 2,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Alfacalcidol, or 1-alpha-hydroxycholecalciferol or 1-alpha-hydroxyvitamin D3, is a non-endogenous analogue of [vitamin D]. It plays an essential function in calcium homeostasis and bone metabolism. Alfacaldisol is activated by the enzyme 25-hydroxylase in the liver to mediate its effects in the body, or most importantly, the kidneys and bones. The pharmacological actions of alfacalcidol are prolonged than vitamin D because a negative feedback mechanism regulates the final activation step of vitamin D in the kidneys.  Alfacalcidol is available in oral and intravenous formulations. In Canada, it is marketed as ONE-ALPHA, which manages hypocalcemia, secondary hyperparathyroidism, and osteodystrophy in adults with chronic renal failure. In approving European countries, alfacalcidol is also indicated for managing nutritional and malabsorptive rickets and osteomalacia, vitamin D-dependent rickets and osteomalacia, and hypophosphataemic vitamin D resistant rickets and osteomalacia.",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 51,
+                                                    "Length": 25,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1-alpha-hydroxyvitamin%20D3",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-45073394"
+                                                },
+                                                {
+                                                    "Start": 157,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                },
+                                                {
+                                                    "Start": 377,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 523,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 616,
+                                                    "Length": 9,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ONE-ALPHA",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-5282181"
+                                                },
+                                                {
+                                                    "Start": 776,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Computed Descriptors",
+                        "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+                        "Section": [
+                            {
+                                "TOCHeading": "IUPAC Name",
+                                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Lexichem TK 2.7.0 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "5-[2-[7a-methyl-1-(6-methylheptan-2-yl)-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 7,
+                                                            "Length": 1,
+                                                            "Type": "Italics"
+                                                        },
+                                                        {
+                                                            "Start": 45,
+                                                            "Length": 1,
+                                                            "Type": "Italics"
+                                                        },
+                                                        {
+                                                            "Start": 64,
+                                                            "Length": 1,
+                                                            "Type": "Italics"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "InChI",
+                                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by InChI 1.0.6 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "InChI=1S/C27H44O2/c1-18(2)8-6-9-19(3)24-13-14-25-21(10-7-15-27(24,25)5)11-12-22-16-23(28)17-26(29)20(22)4/h11-12,18-19,23-26,28-29H,4,6-10,13-17H2,1-3,5H3"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "InChIKey",
+                                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by InChI 1.0.6 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "OFHCOWSQAMBJIW-UHFFFAOYSA-N"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "SMILES",
+                                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by OEChem 2.3.0 (PubChem release 2024.12.12)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "CC(C)CCCC(C)C1CCC2C1(CCCC2=CC=C3CC(CC(C3=C)O)O)C"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Molecular Formula",
+                        "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+                        "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+                        "DisplayControls": {
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Reference": [
+                                    "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                                ],
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "C27H44O2"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Other Identifiers",
+                        "Description": "Other identifiers assigned to this chemical.",
+                        "Section": [
+                            {
+                                "TOCHeading": "CAS",
+                                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 2,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "41294-56-8"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 5,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "41294-56-8"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 9,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "41294-56-8"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "European Community (EC) Number",
+                                "Description": "The European Community (EC) number is a seven-digit identifier assigned by the European Chemicals Agency (ECHA) to substances for regulatory purposes within the European Union. EC numbers are sometimes referred to as EINECS, ELINCS, or NLP numbers, because the EC Inventory comprises three individual inventories (EINECS, ELINCS, and the NLP list).",
+                                "URL": "https://echa.europa.eu/information-on-chemicals/ec-inventory",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 5,
+                                        "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.050.253",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "255-297-1"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "DrugBank ID",
+                                "Description": "Drug identifier used by the DrugBank database",
+                                "URL": "https://go.drugbank.com/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 2,
+                                        "URL": "https://www.drugbank.ca/drugs/DB01436",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "DB01436"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "HMDB ID",
+                                "Description": "A chemical substance identifier from the HMDB database",
+                                "URL": "https://hmdb.ca/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 6,
+                                        "URL": "https://hmdb.ca/metabolites/HMDB0242364",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "HMDB0242364"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "KEGG ID",
+                                "Description": "KEGG compound/drug identifier",
+                                "URL": "https://www.kegg.jp/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 7,
+                                        "URL": "https://www.kegg.jp/entry/D01518",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "D01518"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "NCI Thesaurus Code",
+                                "Description": "Stable, unique code for biomedical concept",
+                                "URL": "https://ncithesaurus.nci.nih.gov",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 8,
+                                        "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C80258",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "C80258"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Pharos Ligand ID",
+                                "Description": "Ligand identifier used by Pharos",
+                                "URL": "https://pharos.nih.gov/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 11,
+                                        "URL": "https://pharos.nih.gov/ligands/14PS9M5U7U3Z",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "14PS9M5U7U3Z"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Wikipedia",
+                                "Description": "Wikidata entity identifier for this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 14,
+                                        "URL": "https://en.wikipedia.org/wiki/Alfacalcidol",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Alfacalcidol"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Synonyms",
+                        "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+                        "Section": [
+                            {
+                                "TOCHeading": "MeSH Entry Terms",
+                                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                                "DisplayControls": {
+                                    "ListType": "Columns"
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 16,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "1 alpha-hydroxycholecalciferol"
+                                                },
+                                                {
+                                                    "String": "1 alpha-hydroxyvitamin D3"
+                                                },
+                                                {
+                                                    "String": "1-alpha-oxycholecalciferol"
+                                                },
+                                                {
+                                                    "String": "1-hydroxycholecalciferol"
+                                                },
+                                                {
+                                                    "String": "1-hydroxycholecalciferol, (1alpha,3alpha-(5Z,7E))-isomer"
+                                                },
+                                                {
+                                                    "String": "1-hydroxycholecalciferol, (1beta)-(5Z)-isomer"
+                                                },
+                                                {
+                                                    "String": "1-hydroxycholecalciferol, (1beta,3beta-(5E,7E))-isomer"
+                                                },
+                                                {
+                                                    "String": "1-hydroxycholecalciferol, aluminum salt"
+                                                },
+                                                {
+                                                    "String": "1alpha-OHD3"
+                                                },
+                                                {
+                                                    "String": "alfacalcidol"
+                                                },
+                                                {
+                                                    "String": "AlfaD"
+                                                },
+                                                {
+                                                    "String": "alphacalcidol"
+                                                },
+                                                {
+                                                    "String": "Bondiol"
+                                                },
+                                                {
+                                                    "String": "Eenalfadrie"
+                                                },
+                                                {
+                                                    "String": "EinsAlpha"
+                                                },
+                                                {
+                                                    "String": "Etalpha"
+                                                },
+                                                {
+                                                    "String": "Oksidevit"
+                                                },
+                                                {
+                                                    "String": "One-Alpha"
+                                                },
+                                                {
+                                                    "String": "Un-Alfa"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Depositor-Supplied Synonyms",
+                                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                                "DisplayControls": {
+                                    "ListType": "Columns",
+                                    "MoveToTop": true
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "alfacalcidol"
+                                                },
+                                                {
+                                                    "String": "41294-56-8"
+                                                },
+                                                {
+                                                    "String": "63181-13-5"
+                                                },
+                                                {
+                                                    "String": "Alfacalcidol?"
+                                                },
+                                                {
+                                                    "String": "1|A-Hydroxy Vitamin D3"
+                                                },
+                                                {
+                                                    "String": "Alfacalcidol EP Impurity A"
+                                                },
+                                                {
+                                                    "String": "PD154714"
+                                                },
+                                                {
+                                                    "String": "5-{2-[7a-methyl-1-(6-methylheptan-2-yl)-hexahydro-1H-inden-4-ylidene]ethylidene}-4-methylidenecyclohexane-1,3-diol"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Removed Synonyms",
+                                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                                "DisplayControls": {
+                                    "HideThisSection": true
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Alfacalcidolum"
+                                                },
+                                                {
+                                                    "String": "Alphacalcidol"
+                                                },
+                                                {
+                                                    "String": "Oxydevit"
+                                                },
+                                                {
+                                                    "String": "Alfarol"
+                                                },
+                                                {
+                                                    "String": "Bondiol"
+                                                },
+                                                {
+                                                    "String": "Etalpha"
+                                                },
+                                                {
+                                                    "String": "Sinovul"
+                                                },
+                                                {
+                                                    "String": "EinsAlpha"
+                                                },
+                                                {
+                                                    "String": "alpha-Calcidol"
+                                                },
+                                                {
+                                                    "String": "One-Alpha"
+                                                },
+                                                {
+                                                    "String": "Un-Alpha"
+                                                },
+                                                {
+                                                    "String": "Alpha-D3"
+                                                },
+                                                {
+                                                    "String": "1-Hydroxyvitamin D3"
+                                                },
+                                                {
+                                                    "String": "Alpha D 3"
+                                                },
+                                                {
+                                                    "String": "1-Hydroxycholecalciferol"
+                                                },
+                                                {
+                                                    "String": "1a-hydroxycholecalciferol"
+                                                },
+                                                {
+                                                    "String": "1b-Hydroxy Vitamin D3"
+                                                },
+                                                {
+                                                    "String": "AC1L1CWC"
+                                                },
+                                                {
+                                                    "String": "1alpha-Hydroxy-vitamin D3"
+                                                },
+                                                {
+                                                    "String": "Alfacalcidolum [INN-Latin]"
+                                                },
+                                                {
+                                                    "String": "1-alpha-Hydroxycholecalciferol"
+                                                },
+                                                {
+                                                    "String": "Alfacalcidol [BAN:INN:JAN]"
+                                                },
+                                                {
+                                                    "String": "Alfacalcidol [INN:BAN:JAN]"
+                                                },
+                                                {
+                                                    "String": "CCRIS 3341"
+                                                },
+                                                {
+                                                    "String": "UNII-URQ2517572"
+                                                },
+                                                {
+                                                    "String": "CID2091"
+                                                },
+                                                {
+                                                    "String": "EINECS 255-297-1"
+                                                },
+                                                {
+                                                    "String": "EB 644"
+                                                },
+                                                {
+                                                    "String": "C27-H44-O2"
+                                                },
+                                                {
+                                                    "String": "AN-11159"
+                                                },
+                                                {
+                                                    "String": "FT-0602913"
+                                                },
+                                                {
+                                                    "String": "FT-0670226"
+                                                },
+                                                {
+                                                    "String": "1beta-Hydroxyvitamin D3/1beta-hydroxycholecalciferol"
+                                                },
+                                                {
+                                                    "String": "65445-14-9"
+                                                },
+                                                {
+                                                    "String": "(5E)-1alpha-Hydroxyvitamin D3/(5E)-1alpha-hydroxycholecalciferol"
+                                                },
+                                                {
+                                                    "String": "(5Z,7E)-9,10-Seco-5,7,10(19)-cholestatrien-1alpha,3beta-diol"
+                                                },
+                                                {
+                                                    "String": "(1-alpha,3-beta,5Z,7E)-9,10-secocholesta-5,7,10(19)-triene-1,3-diol"
+                                                },
+                                                {
+                                                    "String": "(1R,3S,5E)-5-[(2E)-2-[(1R,3aS,7aR)-7a-methyl-1-[(2R)-6-methylheptan-2-yl]-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol"
+                                                },
+                                                {
+                                                    "String": "(1R,3S,5Z)-5-[(2E)-2-[(1R,3aS,7aR)-7a-methyl-1-[(2R)-6-methylheptan-2-yl]-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol"
+                                                },
+                                                {
+                                                    "String": "9,10-Secocholesta-5,7,10(19)-triene-1,3-diol, (1.alpha.,3.beta.,5Z,7E)-"
+                                                },
+                                                {
+                                                    "String": "5-[2-[1-(1,5-dimethylhexyl)-7a-methyl-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylene-cyclohexane-1,3-diol"
+                                                },
+                                                {
+                                                    "String": "5-[2-[7a-methyl-1-(6-methylheptan-2-yl)-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Create Date",
+                        "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+                        "DisplayControls": {
+                            "HideThisSection": true,
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "DateISO8601": [
+                                        "2005-03-25"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Modify Date",
+                        "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+                        "DisplayControls": {
+                            "HideThisSection": true,
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "DateISO8601": [
+                                        "2025-01-18"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Chemical and Physical Properties",
+                "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+                "Section": [
+                    {
+                        "TOCHeading": "Computed Properties",
+                        "Description": "Properties of this compound computed from its molecular formula and structure.",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "Subsections",
+                                "NumberOfColumns": 3,
+                                "ColumnHeadings": [
+                                    "Property Name",
+                                    "Property Value",
+                                    "Reference"
+                                ],
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value",
+                                    "Reference"
+                                ]
+                            }
+                        },
+                        "Section": [
+                            {
+                                "TOCHeading": "Molecular Weight",
+                                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                                "DisplayControls": {
+                                    "MoveToTop": true
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "400.6"
+                                                }
+                                            ],
+                                            "Unit": "g/mol"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "XLogP3",
+                                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Name": "XLogP3-AA",
+                                        "Reference": [
+                                            "Computed by XLogP3 3.0 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                6.8
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Hydrogen Bond Donor Count",
+                                "Description": "The number of hydrogen bond donors in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                2
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                                "Description": "The number of hydrogen bond acceptors in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                2
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Rotatable Bond Count",
+                                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                6
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Exact Mass",
+                                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "400.334130642"
+                                                }
+                                            ],
+                                            "Unit": "Da"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Monoisotopic Mass",
+                                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "400.334130642"
+                                                }
+                                            ],
+                                            "Unit": "Da"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Topological Polar Surface Area",
+                                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                40.5
+                                            ],
+                                            "Unit": "\u212b\u00b2"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Heavy Atom Count",
+                                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                29
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Formal Charge",
+                                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Complexity",
+                                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                643
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Isotope Atom Count",
+                                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Defined Atom Stereocenter Count",
+                                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Undefined Atom Stereocenter Count",
+                                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                6
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Defined Bond Stereocenter Count",
+                                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Undefined Bond Stereocenter Count",
+                                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                2
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Covalently-Bonded Unit Count",
+                                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                1
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Compound Is Canonicalized",
+                                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Reference": [
+                                            "Computed by PubChem (release 2021.10.14)"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Yes"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Experimental Properties",
+                        "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+                        "Section": [
+                            {
+                                "TOCHeading": "Melting Point",
+                                "Description": "This section provides the melting point and/or freezing point. The melting point is the temperature at which a substance changes state from solid to liquid at atmospheric pressure. When considered as the temperature of the reverse change (from liquid to solid), it is referred to as the freezing point.",
+                                "URL": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)/06%3A_Miscellaneous_Techniques/6.01%3A_Melting_Point",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 2,
+                                        "Reference": [
+                                            "PhysProp"
+                                        ],
+                                        "Value": {
+                                            "Number": [
+                                                136
+                                            ],
+                                            "Unit": "\u00b0C"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Solubility",
+                                "Description": "The solubility of a substance is the amount of that substance that will dissolve in a given amount of solvent. The default solvent is water, if not indicated.",
+                                "URL": "https://chem.libretexts.org/Courses/Purdue/Purdue%3A_Chem_26505%3A_Organic_Chemistry_I_(Lipton)/Chapter_4._Intermolecular_Forces_and_Physical_Properties/4.4_Solubility",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 2,
+                                        "Reference": [
+                                            "https://www.selleck.cn/msds/MSDS_S1468.pdf"
+                                        ],
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "<1 mg/mL"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Related Records",
+                "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+                "Section": [
+                    {
+                        "TOCHeading": "Related Compounds with Annotation",
+                        "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+                        "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see here for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                                            "Markup": [
+                                                {
+                                                    "Start": 22,
+                                                    "Length": 19,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2091%20structure&tab=similarity&sort=annothitcnt"
+                                                },
+                                                {
+                                                    "Start": 45,
+                                                    "Length": 19,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2091%20structure&tab=similarity_3d&sort=annothitcnt"
+                                                },
+                                                {
+                                                    "Start": 144,
+                                                    "Length": 4,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Related Compounds",
+                        "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+                        "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "ThisSection",
+                                "NumberOfColumns": 2,
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value"
+                                ]
+                            },
+                            "ShowAtMost": 1
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Same Connectivity Count",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2091/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                                "Value": {
+                                    "Number": [
+                                        109
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Same Isotope Count",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2091/cids/JSON?cids_type=same_isotopes&list_return=redirect",
+                                "Value": {
+                                    "Number": [
+                                        94
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Same Parent, Connectivity Count",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2091/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                                "Value": {
+                                    "Number": [
+                                        114
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Same Parent, Isotope Count",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2091/cids/JSON?cids_type=same_parent_isotopes&list_return=redirect",
+                                "Value": {
+                                    "Number": [
+                                        99
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Similar Compounds (2D)",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2091%20structure&tab=similarity",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "View in PubChem Search"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Similar Conformers (3D)",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2091%20structure&tab=similarity_3d",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "View in PubChem Search"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Substances",
+                        "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+                        "Section": [
+                            {
+                                "TOCHeading": "Related Substances",
+                                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                                "DisplayControls": {
+                                    "CreateTable": {
+                                        "FromInformationIn": "ThisSection",
+                                        "NumberOfColumns": 2,
+                                        "ColumnContents": [
+                                            "Name",
+                                            "Value"
+                                        ]
+                                    },
+                                    "ShowAtMost": 1
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Name": "Same Count",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2091/sids/JSON?sids_type=standardized&list_return=redirect",
+                                        "Value": {
+                                            "Number": [
+                                                31
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Substances by Category",
+                                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 15,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Chemical Vendors"
+                                                },
+                                                {
+                                                    "String": "Legacy Depositors"
+                                                },
+                                                {
+                                                    "String": "Research and Development"
+                                                },
+                                                {
+                                                    "String": "Subscription Services"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Entrez Crosslinks",
+                        "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "ThisSection",
+                                "NumberOfColumns": 2,
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value"
+                                ]
+                            },
+                            "ShowAtMost": 1
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "PubMed Count",
+                                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=2091",
+                                "Value": {
+                                    "Number": [
+                                        2
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Chemical Vendors",
+                "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+                "Information": [
+                    {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                            "Boolean": [
+                                true
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Drug and Medication Information",
+                "Description": "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc.",
+                "Section": [
+                    {
+                        "TOCHeading": "Drug Indication",
+                        "Description": "A drug indication refers to any valid reason (e.g., signs/symptoms or diseases/disorders) to use a certain drug.  Many indications are label indications, approved by a regulatory agency (e.g., the U.S. Food and Drug Administration or European Medical Agency), meaning that the manufacturer is allowed to market the drug for the approved indications.  However, some indications are not approved, and therefore, they are called off-label indications.  This section may include both label indications and off-label indications.",
+                        "DisplayControls": {
+                            "ShowAtMost": 3
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 2,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Alfacalcidol is indicated in adult patients with chronic renal failure for the management of hypocalcemia, secondary hyperparathyroidism, or osteodystrophy.  Alfacalcidol is indicated in the management of nutritional and malabsorptive rickets and osteomalacia, vitamin D-dependent rickets and osteomalacia, and hypophosphataemic vitamin D resistant rickets and osteomalacia.",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 158,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 2,
+                                "URL": "http://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB01436.pdf?1559322519",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "FDA Label"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Clinical Trials",
+                        "Description": "Clinical trials are research studies performed in people to evaluate a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment (e.g., a drug or diet) or medical device (e.g., a pacemaker) is safe and effective in people.  This section provides information on clinical trials for this chemical.",
+                        "Section": [
+                            {
+                                "TOCHeading": "ClinicalTrials.gov",
+                                "Description": "Brief clinical trials summary from ClinicalTrials.gov at the U.S. National Library of Medicine.",
+                                "URL": "http://clinicaltrials.gov/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "ClinicalTrials.gov",
+                                        "Value": {
+                                            "ExternalTableName": "clinicaltrials",
+                                            "ExternalTableNumRows": 25
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "EU Clinical Trials Register",
+                                "Description": "Brief clinical trials summary from the EU Clinical Trials Register.",
+                                "URL": "https://www.clinicaltrialsregister.eu/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Name": "EU Clinical Trials Register",
+                                        "Value": {
+                                            "ExternalTableName": "clinicaltrials_eu",
+                                            "ExternalTableNumRows": 9
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "NIPH Clinical Trials Search of Japan",
+                                "Description": "Brief clinical trials summary from the NIPH Clinical Trials Search of Japan, which allows one to cross-search four national clinical research information registries in Japan: the Japan Registry of Clinical Trials (JRCT), the University Hospital Medical Information Network Center (UMIN-CTR), the Japan Pharmaceutical Information Center (JAPIC), and the Japan Medical Association Center for Clinical Trials (JMACCT).",
+                                "URL": "https://rctportal.niph.go.jp/en/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 10,
+                                        "Name": "NIPH Clinical Trials Search of Japan",
+                                        "Value": {
+                                            "ExternalTableName": "clinicaltrials_jp",
+                                            "ExternalTableNumRows": 24
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Pharmacology and Biochemistry",
+                "Description": "Pharmacology and biochemistry information related to this compound, including the pharmacodynamics, pharmacokinetics, metabolism, mechanism of action, biological half-life, biochemical reactions, and many others.",
+                "Section": [
+                    {
+                        "TOCHeading": "Pharmacodynamics",
+                        "Description": "Pharmacodynamic information for this compound as a drug (i.e., what does this drug do to the body).  Pharmacodynamics is the study of the biochemical, physiologic, and molecular effects of drugs on the body.",
+                        "URL": "https://www.ncbi.nlm.nih.gov/books/NBK507791/",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 2,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Alfacalcidol works to increase serum levels of calcium by stimulating intestinal calcium absorption, reabsorption of calcium from bone, and possibly the renal reabsorption of calcium. It also modestly promotes intestinal phosphorus absorption. In patients with renal failure, alfacalcidol increased intestinal calcium and phosphorus absorption in a dose-related manner. This increase in calcium and phosphorus levels occurs within three days following drug administration: this effect was reversed within three days of drug discontinuation. In patients with chronic renal failure, serum calcium levels were elevated while parathyroid hormone and alkaline phosphatase levels returned to normal levels within five days following alfacalcidol administration. Since alfacalcidol suppresses parathyroid hormone, a reduction in parathyroid hormone levels is achieved more rapidly in patients on intermittent intravenous therapy, with significant reductions occurring within three months of therapy. In patients receiving daily oral therapy of alfacalcidol, the time it takes alfacalcidol to normalize plasma calcium levels may be up to several months, possibly reflecting calcium being utilized for bone mineralization. In patients with nutritional osteomalacia, alfacalcidol increased calcium absorption with six hours of oral administration and the effects peaked at 24 hours.",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 47,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                },
+                                                {
+                                                    "Start": 81,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                },
+                                                {
+                                                    "Start": 117,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                },
+                                                {
+                                                    "Start": 175,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                },
+                                                {
+                                                    "Start": 221,
+                                                    "Length": 10,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Phosphorus",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Phosphorus"
+                                                },
+                                                {
+                                                    "Start": 276,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 310,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                },
+                                                {
+                                                    "Start": 322,
+                                                    "Length": 10,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Phosphorus",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Phosphorus"
+                                                },
+                                                {
+                                                    "Start": 387,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                },
+                                                {
+                                                    "Start": 399,
+                                                    "Length": 10,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Phosphorus",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Phosphorus"
+                                                },
+                                                {
+                                                    "Start": 587,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                },
+                                                {
+                                                    "Start": 727,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 762,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 1037,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 1069,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 1102,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                },
+                                                {
+                                                    "Start": 1166,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                },
+                                                {
+                                                    "Start": 1257,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 1280,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "MeSH Pharmacological Classification",
+                        "Description": "Pharmacological action classes from the Medical Subject Headings (MeSH) thesaurus.",
+                        "URL": "https://meshb.nlm.nih.gov/record/ui?ui=D020228",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 22,
+                                "Name": "Bone Density Conservation Agents",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Agents that inhibit BONE RESORPTION and/or favor BONE MINERALIZATION and BONE REGENERATION. They are used to heal BONE FRACTURES and to treat METABOLIC BONE DISEASES such as OSTEOPOROSIS. (See all compounds classified as Bone Density Conservation Agents.)",
+                                            "Markup": [
+                                                {
+                                                    "Start": 193,
+                                                    "Length": 60,
+                                                    "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?Db=pccompound&DbFrom=mesh&Cmd=Link&LinkName=mesh_pccompound&IdsFromResult=68050071"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "ATC Code",
+                        "Description": "The Anatomical Therapeutic Chemical (ATC) Classification System is used for the classification of drugs. This pharmaceutical coding system divides drugs into different groups according to the organ or system on which they act and/or their therapeutic and chemical characteristics. Each bottom-level ATC code stands for a pharmaceutically used substance, or a combination of substances, in a single indication (or use). This means that one drug can have more than one code: acetylsalicylic acid (aspirin), for example, has A01AD05 as a drug for local oral treatment, B01AC06 as a platelet inhibitor, and N02BA01 as an analgesic and antipyretic. On the other hand, several different brands share the same code if they have the same active substance and indications.",
+                        "URL": "https://www.whocc.no/atc/structure_and_principles/",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 13,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "A - Alimentary tract and metabolism",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 1,
+                                                    "URL": "https://www.whocc.no/atc_ddd_index/?code=A"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "String": "A11 - Vitamins",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 3,
+                                                    "URL": "https://www.whocc.no/atc_ddd_index/?code=A11"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "String": "A11C - Vitamin a and d, incl. combinations of the two",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 4,
+                                                    "URL": "https://www.whocc.no/atc_ddd_index/?code=A11C"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "String": "A11CC - Vitamin d and analogues",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 5,
+                                                    "URL": "https://www.whocc.no/atc_ddd_index/?code=A11CC"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "String": "A11CC03 - Alfacalcidol",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 7,
+                                                    "URL": "https://www.whocc.no/atc_ddd_index/?code=A11CC03"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Absorption, Distribution and Excretion",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 2,
+                                "Name": "Absorption",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Alfacalcidol is absorbed passively and almost completely in the small intestine.",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Metabolism/Metabolites",
+                        "Description": "Metabolites are substances made or used when the body breaks down food, drugs or chemicals, or its own tissue (for example, fat or muscle tissue). This process is called metabolism and makes energy and the materials needed for growth, reproduction, and maintaining health. Metabolism also helps get rid of toxic substances.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 2,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Alfacalcidol is rapidly converted in the liver to 1,25-dihydroxyvitamin D, which is essentially the metabolite of vitamin D that regulates calcium and phosphate metabolism. Alfacalcidol is further metabolized to other polar inactive metabolites, excreted primarily through the bile.",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 50,
+                                                    "Length": 23,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C25-dihydroxyvitamin%20D",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-5280453"
+                                                },
+                                                {
+                                                    "Start": 139,
+                                                    "Length": 7,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "Element-Calcium"
+                                                },
+                                                {
+                                                    "Start": 151,
+                                                    "Length": 9,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phosphate",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-21226077"
+                                                },
+                                                {
+                                                    "Start": 173,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Biological Half-Life",
+                        "Description": "The time required for a biological system (e.g., human body) to eliminate, by natural processes, half of the amount of a chemical (e.g., alcohol, medication, or radioactive material) that has entered it.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 2,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "The half-life of alfacalcidol ranges from three to four hours.",
+                                            "Markup": [
+                                                {
+                                                    "Start": 17,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Mechanism of Action",
+                        "Description": "In medicine, the term \"mechanism of action\" (also called MOA) is used to describe how a drug or other substance produces an effect in the body. For example, a drug's mechanism of action could be how it affects a specific target in a cell, such as an enzyme, or a cell function, such as cell growth. Knowing the mechanism of action of a drug may help provide information about the safety of the drug and how it affects the body. It may also help identify the right dose of a drug and which patients are most likely to respond to treatment.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 2,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "In conditions like chronic renal failure, renal bone disease, hypoparathyroidism, and vitamin D dependent rickets, the kidneys' capacity for 1\u03b1-hydroxylation is impaired, leading to reduced production of endogenous 1,25-dihydroxyvitamin D and aberrated mineral metabolism. As an active and potent analog of vitamin D, alfacalcidol works to restore the functions and activities of endogenous 1,25-dihydroxyvitamin D.",
+                                            "Markup": [
+                                                {
+                                                    "Start": 215,
+                                                    "Length": 23,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C25-dihydroxyvitamin%20D",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-5280453"
+                                                },
+                                                {
+                                                    "Start": 318,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                },
+                                                {
+                                                    "Start": 391,
+                                                    "Length": 23,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C25-dihydroxyvitamin%20D",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-5280453"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Safety and Hazards",
+                "Description": "Information on safety and hazards for this compound, including safety/hazards properties, reactivity, incompatibilities, management techniques, first aid treatments, and more.  For toxicity and related information, please see the Toxicity section.",
+                "Section": [
+                    {
+                        "TOCHeading": "Hazards Identification",
+                        "Description": "This section identifies the hazards of the chemical presented on the safety data sheet (SDS) and the appropriate warning information associated with those hazards.  The information in this section includes, but are not limited to, the hazard classification of the chemical, signal word, pictograms, hazard statements and precautionary statements.",
+                        "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+                        "Section": [
+                            {
+                                "TOCHeading": "GHS Classification",
+                                "Description": "GHS (Globally Harmonized System of Classification and Labelling of Chemicals) is a United Nations system to identify hazardous chemicals and to inform users about these hazards. GHS has been adopted by many countries around the world and is now also used as the basis for international and national transport regulations for dangerous goods. The GHS hazard statements, class categories, pictograms, signal words, and the precautionary statements can be found on the PubChem GHS page.",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/",
+                                "DisplayControls": {
+                                    "CreateTable": {
+                                        "FromInformationIn": "ThisSection",
+                                        "NumberOfColumns": 2,
+                                        "ColumnContents": [
+                                            "Name",
+                                            "Value"
+                                        ]
+                                    },
+                                    "ShowAtMost": 1
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 4,
+                                        "Name": "Pictogram(s)",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "          ",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 0,
+                                                            "Length": 1,
+                                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS06.svg",
+                                                            "Type": "Icon",
+                                                            "Extra": "Acute Toxic"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 4,
+                                        "Name": "Signal",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Danger",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 0,
+                                                            "Length": 6,
+                                                            "Type": "Color",
+                                                            "Extra": "GHSDanger"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 4,
+                                        "Name": "GHS Hazard Statements",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "H300 (100%): Fatal if swallowed [Danger Acute toxicity, oral]",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 33,
+                                                            "Length": 6,
+                                                            "Type": "Color",
+                                                            "Extra": "GHSDanger"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "String": "H310 (91.5%): Fatal in contact with skin [Danger Acute toxicity, dermal]",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 42,
+                                                            "Length": 6,
+                                                            "Type": "Color",
+                                                            "Extra": "GHSDanger"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "String": "H330 (93.6%): Fatal if inhaled [Danger Acute toxicity, inhalation]",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 32,
+                                                            "Length": 6,
+                                                            "Type": "Color",
+                                                            "Extra": "GHSDanger"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 4,
+                                        "Name": "Precautionary Statement Codes",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "P260, P262, P264, P270, P271, P280, P284, P301+P316, P302+P352, P304+P340, P316, P320, P321, P330, P361+P364, P403+P233, P405, and P501"
+                                                },
+                                                {
+                                                    "String": "(The corresponding statement to each P-code can be found at the GHS Classification page.)",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 64,
+                                                            "Length": 18,
+                                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#_prec"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 4,
+                                        "Name": "ECHA C&L Notifications Summary",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Aggregated GHS information provided per 47 reports by companies from 7 notifications to the ECHA C&L Inventory. Each notification may be associated with multiple companies.",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 0,
+                                                            "Length": 176,
+                                                            "Type": "Italics"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "String": "Information may vary between notifications depending on impurities, additives, and other factors. The percentage value in parenthesis indicates the notified classification ratio from companies that provide hazard codes. Only hazard codes with percentage values above 10% are shown.",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 0,
+                                                            "Length": 281,
+                                                            "Type": "Italics"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Hazard Classes and Categories",
+                                "Description": "The Hazard Classes and Categories are aligned with GHS (Globally Harmonized System of Classification and Labelling of Chemicals) hazard statement codes.  The percentage data in the parenthesis from ECHA indicates that the hazard classes and categories information are consolidated from multiple companies.  Also, see the detailed explanation from the above GHS classification section.",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/",
+                                "DisplayControls": {
+                                    "ShowAtMost": 2
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 4,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Acute Tox. 2 (100%)"
+                                                },
+                                                {
+                                                    "String": "Acute Tox. 2 (91.5%)"
+                                                },
+                                                {
+                                                    "String": "Acute Tox. 2 (93.6%)"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Regulatory Information",
+                        "Description": "This section lists the regulations related to the safety, health, and environment of the chemical and its associated products. The regulatory information, which may encompass national and/or regional regulations pertaining to the chemical or mixtures, is presented solely for informational purposes. For additional details, please consult the links to the information sources provided under each data entry.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 9,
+                                "Name": "New Zealand EPA Inventory of Chemical Status",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Alfacalcidol: Does not have an individual approval but may be used as a component in a product covered by a group standard. It is not approved for use as a chemical in its own right.",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 12,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Alfacalcidol",
+                                                    "Type": "PubChem Internal Link",
+                                                    "Extra": "CID-2091"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Toxicity",
+                "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+                "Section": [
+                    {
+                        "TOCHeading": "Toxicological Information",
+                        "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+                        "Section": [
+                            {
+                                "TOCHeading": "Protein Binding",
+                                "Description": "In this section, \"protein binding\" refers to the degree to which medications attach to plasma proteins (i.e., proteins within the blood, such as human serum albumin, lipoprotein, glycoprotein and globulins). A drug's efficiency may be affected by the degree to which it binds to plasma proteins. The less bound a drug is, the more efficiently it can traverse cell membranes or diffuse.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 2,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "The active metabolite of alfacalcidol, 1,25-dihydroxyvitamin D, is transported to tissues via globulin, a specific transport protein.",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 25,
+                                                            "Length": 12,
+                                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alfacalcidol",
+                                                            "Type": "PubChem Internal Link",
+                                                            "Extra": "CID-2091"
+                                                        },
+                                                        {
+                                                            "Start": 39,
+                                                            "Length": 23,
+                                                            "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C25-dihydroxyvitamin%20D",
+                                                            "Type": "PubChem Internal Link",
+                                                            "Extra": "CID-5280453"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Literature",
+                "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+                "Section": [
+                    {
+                        "TOCHeading": "Consolidated References",
+                        "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "ExternalTableName": "literature"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "NLM Curated PubMed Citations",
+                        "Description": "The NLM Curated PubMed Citations section links to all PubMed records that are tagged with the same MeSH term that has been associated with a particular compound.",
+                        "URL": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0142-6",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed_mesh&db=pccompound&cmd=Link&from_uid=2091",
+                                "Value": {
+                                    "Boolean": [
+                                        true
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical Co-Occurrences in Literature",
+                        "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+                        "URL": "https://doi.org/10.3389/frma.2021.689059",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "ChemicalNeighbor"
+                                        },
+                                        {
+                                            "String": "Chemical"
+                                        },
+                                        {
+                                            "String": "ChemicalName_1"
+                                        },
+                                        {
+                                            "String": "ChemicalName_2"
+                                        },
+                                        {
+                                            "String": "SUMMARY_URL.cid"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+                        "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+                        "URL": "https://doi.org/10.3389/frma.2021.689059",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "ChemicalGeneSymbolNeighbor"
+                                        },
+                                        {
+                                            "String": "Gene/Protein/Enzyme"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "GeneSymbolName"
+                                        },
+                                        {
+                                            "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "GeneSymbol"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+                        "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+                        "URL": "https://doi.org/10.3389/frma.2021.689059",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Name": "Co-Occurrence Panel",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "ChemicalDiseaseNeighbor"
+                                        },
+                                        {
+                                            "String": "Disease"
+                                        },
+                                        {
+                                            "String": "ChemicalName"
+                                        },
+                                        {
+                                            "String": "DiseaseName"
+                                        },
+                                        {
+                                            "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                                        },
+                                        {
+                                            "String": "CID"
+                                        },
+                                        {
+                                            "String": "MeSH"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Patents",
+                "Description": "Patent applications/documents that mention this compound.",
+                "DisplayControls": {
+                    "ListType": "Columns"
+                },
+                "Section": [
+                    {
+                        "TOCHeading": "Depositor-Supplied Patent Identifiers",
+                        "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "ExternalTableName": "patent"
+                                }
+                            },
+                            {
+                                "ReferenceNumber": 15,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Link to all deposited patent identifiers",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 40,
+                                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2091/xrefs/PatentID/TXT"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Interactions and Pathways",
+                "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+                "Section": [
+                    {
+                        "TOCHeading": "Chemical-Target Interactions",
+                        "Description": "Interactions between targets and this compound",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 2,
+                                "Value": {
+                                    "ExternalTableName": "collection=consolidatedcompoundtarget&query_type=name&query=^Alfacalcidol$"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Drug-Drug Interactions",
+                        "Description": "Drug-drug interactions for this compound.  Drug-drug interactions occur when two or more drugs react with each other. This drug-drug interaction may cause you to experience an unexpected side effect. For example, mixing a drug you take to help you sleep (a sedative) and a drug you take for allergies (an antihistamine) can slow your reactions and make driving a car or operating machinery dangerous.",
+                        "URL": "https://www.fda.gov/drugs/resources-you-drugs/drug-interactions-what-you-should-know",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 2,
+                                "Value": {
+                                    "ExternalTableName": "collection=drugbankddi&query_type=name&query=^Alfacalcidol$"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Drug-Food Interactions",
+                        "Description": "Drug-food interactions for this compound. Drug-food/beverage interactions result from drugs reacting with foods or beverages. For example, mixing alcohol with some drugs may cause you to feel tired or slow your reactions.",
+                        "URL": "https://www.fda.gov/drugs/resources-you-drugs/drug-interactions-what-you-should-know",
+                        "DisplayControls": {
+                            "ListType": "Bulleted"
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 2,
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Take with or without food. Food does not affect the bioavailability."
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Classification",
+                "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+                "Section": [
+                    {
+                        "TOCHeading": "MeSH Tree",
+                        "Description": "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine.",
+                        "URL": "https://www.nlm.nih.gov/mesh",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 17,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                                "Value": {
+                                    "Number": [
+                                        1
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "WHO ATC Classification System",
+                        "Description": "The Anatomical Therapeutic Chemical (ATC) Classification System is used for the classification of drugs. This pharmaceutical coding system divides drugs into different groups according to the organ or system on which they act and/or their therapeutic and chemical characteristics. Each bottom-level ATC code stands for a pharmaceutically used substance, or a combination of substances, in a single indication (or use). This means that one drug can have more than one code: acetylsalicylic acid (aspirin), for example, has A01AD05 as a drug for local oral treatment, B01AC06 as a platelet inhibitor, and N02BA01 as an analgesic and antipyretic. On the other hand, several different brands share the same code if they have the same active substance and indications.",
+                        "URL": "https://www.who.int/tools/atc-ddd-toolkit/atc-classification",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 19,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=79",
+                                "Value": {
+                                    "Number": [
+                                        79
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "UN GHS Classification",
+                        "Description": "The United Nations' Globally Harmonized System of Classification and Labelling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures.",
+                        "URL": "https://unece.org/about-ghs",
+                        "Information": [
+                            {
+                                "ReferenceNumber": 20,
+                                "Name": "HID",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=83",
+                                "Value": {
+                                    "Number": [
+                                        83
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Reference": [
+            {
+                "ReferenceNumber": 1,
+                "SourceName": "ClinicalTrials.gov",
+                "SourceID": "cid2091",
+                "Description": "ClinicalTrials.gov is an NIH registry and results database of publicly and privately supported clinical studies of human participants conducted around the world.",
+                "URL": "https://clinicaltrials.gov/",
+                "LicenseNote": "The ClinicalTrials.gov data carry an international copyright outside the United States and its Territories or Possessions. Some ClinicalTrials.gov data may be subject to the copyright of third parties; you should consult these entities for any additional terms of use.",
+                "LicenseURL": "https://clinicaltrials.gov/ct2/about-site/terms-conditions#Use",
+                "ANID": 8496760
+            },
+            {
+                "ReferenceNumber": 2,
+                "SourceName": "DrugBank",
+                "SourceID": "DB01436",
+                "Name": "Alfacalcidol",
+                "Description": "The DrugBank database is a unique bioinformatics and cheminformatics resource that combines detailed drug (i.e. chemical, pharmacological and pharmaceutical) data with comprehensive drug target (i.e. sequence, structure, and pathway) information.",
+                "URL": "https://www.drugbank.ca/drugs/DB01436",
+                "LicenseNote": "Creative Common's Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/legalcode)",
+                "LicenseURL": "https://www.drugbank.ca/legal/terms_of_use",
+                "ANID": 3610564
+            },
+            {
+                "ReferenceNumber": 5,
+                "SourceName": "European Chemicals Agency (ECHA)",
+                "SourceID": "255-297-1",
+                "Name": "Alfacalcidol",
+                "Description": "The European Chemicals Agency (ECHA) is an agency of the European Union which is the driving force among regulatory authorities in implementing the EU's groundbreaking chemicals legislation for the benefit of human health and the environment as well as for innovation and competitiveness.",
+                "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.050.253",
+                "LicenseNote": "Use of the information, documents and data from the ECHA website is subject to the terms and conditions of this Legal Notice, and subject to other binding limitations provided for under applicable law, the information, documents and data made available on the ECHA website may be reproduced, distributed and/or used, totally or in part, for non-commercial purposes provided that ECHA is acknowledged as the source: \"Source: European Chemicals Agency, http://echa.europa.eu/\". Such acknowledgement must be included in each copy of the material. ECHA permits and encourages organisations and individuals to create links to the ECHA website under the following cumulative conditions: Links can only be made to webpages that provide a link to the Legal Notice page.",
+                "LicenseURL": "https://echa.europa.eu/web/guest/legal-notice",
+                "ANID": 2012131
+            },
+            {
+                "ReferenceNumber": 9,
+                "SourceName": "New Zealand Environmental Protection Authority (EPA)",
+                "SourceID": "761490ee0f8194069bd35861f6657312",
+                "Name": "Alfacalcidol",
+                "Description": "The New Zealand Environmental Protection Authority is a government agency for regulating activities that affect Aotearoa New Zealand's environment.",
+                "URL": "https://www.epa.govt.nz/industry-areas/hazardous-substances/guidance-for-importers-and-manufacturers/hazardous-substances-databases/",
+                "LicenseNote": "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International licence.",
+                "LicenseURL": "https://www.epa.govt.nz/about-this-site/general-copyright-statement/",
+                "ANID": 45698531
+            },
+            {
+                "ReferenceNumber": 3,
+                "SourceName": "EU Clinical Trials Register",
+                "SourceID": "cid2091",
+                "Description": "The EU Clinical Trials Register contains information on interventional clinical trials on medicines conducted in the European Union (EU), or the European Economic Area (EEA) which started after 1 May 2004.",
+                "URL": "https://www.clinicaltrialsregister.eu/",
+                "ANID": 8793308
+            },
+            {
+                "ReferenceNumber": 4,
+                "SourceName": "European Chemicals Agency (ECHA)",
+                "SourceID": "4062",
+                "Name": "Alfacalcidol (EC: 255-297-1)",
+                "Description": "The information provided here is aggregated from the \"Notified classification and labelling\" from ECHA's C&L Inventory. Read more: https://echa.europa.eu/information-on-chemicals/cl-inventory-database",
+                "URL": "https://echa.europa.eu/information-on-chemicals/cl-inventory-database/-/discli/details/4062",
+                "LicenseNote": "Use of the information, documents and data from the ECHA website is subject to the terms and conditions of this Legal Notice, and subject to other binding limitations provided for under applicable law, the information, documents and data made available on the ECHA website may be reproduced, distributed and/or used, totally or in part, for non-commercial purposes provided that ECHA is acknowledged as the source: \"Source: European Chemicals Agency, http://echa.europa.eu/\". Such acknowledgement must be included in each copy of the material. ECHA permits and encourages organisations and individuals to create links to the ECHA website under the following cumulative conditions: Links can only be made to webpages that provide a link to the Legal Notice page.",
+                "LicenseURL": "https://echa.europa.eu/web/guest/legal-notice",
+                "ANID": 1852195
+            },
+            {
+                "ReferenceNumber": 6,
+                "SourceName": "Human Metabolome Database (HMDB)",
+                "SourceID": "HMDB0242364",
+                "Name": "(1R)-5-[2-[(1R,7Ar)-7a-methyl-1-[(2R)-6-methylheptan-2-yl]-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol",
+                "Description": "The Human Metabolome Database (HMDB) is a freely available electronic database containing detailed information about small molecule metabolites found in the human body.",
+                "URL": "http://www.hmdb.ca/metabolites/HMDB0242364",
+                "LicenseNote": "\tHMDB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (HMDB) and the original publication (see the HMDB citing page). We ask that users who download significant portions of the database cite the HMDB paper in any resulting publications.",
+                "LicenseURL": "http://www.hmdb.ca/citing",
+                "ANID": 14476016
+            },
+            {
+                "ReferenceNumber": 7,
+                "SourceName": "KEGG",
+                "SourceID": "D01518",
+                "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+                "URL": "https://www.kegg.jp/entry/D01518",
+                "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+                "LicenseURL": "https://www.kegg.jp/kegg/legal.html",
+                "ANID": 31099804
+            },
+            {
+                "ReferenceNumber": 8,
+                "SourceName": "NCI Thesaurus (NCIt)",
+                "SourceID": "C80258::Compound",
+                "Description": "NCI Thesaurus (NCIt), from the U.S. National Cancer Institute, provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+                "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C80258",
+                "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+                "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse",
+                "ANID": 19447475
+            },
+            {
+                "ReferenceNumber": 10,
+                "SourceName": "NIPH Clinical Trials Search of Japan",
+                "SourceID": "cid2091",
+                "Description": "NIPH Clinical Trials Search of Japan allows one to search clinical research (trials) from the registries of three institutions; the University Hospital Medical Information Network Center (UMIN-CTR), the Japan Pharmaceutical Information Center (JAPIC), and the Japan Medical Association Center for Clinical Trials.",
+                "URL": "https://rctportal.niph.go.jp/en/",
+                "ANID": 8497736
+            },
+            {
+                "ReferenceNumber": 11,
+                "SourceName": "Pharos",
+                "SourceID": "Compound::14PS9M5U7U3Z",
+                "Name": "alfacalcidol",
+                "Description": "Pharos gives access to a comprehensive, integrated knowledge-base for the Druggable Genome (DG) to illuminate the uncharacterized and/or poorly annotated portion of the DG, focusing on three of the most commonly drug-targeted protein families: G-protein-coupled receptors (GPCRs), Ion channels (ICs) and Kinases. It is the user interface to the Knowledge Management Center (KMC) for the Illuminating the Druggable Genome (IDG) program.",
+                "URL": "https://pharos.nih.gov/ligands/14PS9M5U7U3Z",
+                "LicenseNote": "Data accessed from Pharos and TCRD is publicly available from the primary sources listed above. Please respect their individual licenses regarding proper use and redistribution.",
+                "LicenseURL": "https://pharos.nih.gov/about",
+                "ANID": 24393634
+            },
+            {
+                "ReferenceNumber": 13,
+                "SourceName": "WHO Anatomical Therapeutic Chemical (ATC) Classification",
+                "SourceID": "A11CC03",
+                "Name": "Alfacalcidol",
+                "Description": "The WHO Anatomical Therapeutic Chemical (ATC) Classification System is a classification of active ingredients of drugs according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties.",
+                "URL": "https://www.whocc.no/atc_ddd_index/?code=A11CC03",
+                "LicenseNote": "Use of all or parts of the material requires reference to the WHO Collaborating Centre for Drug Statistics Methodology. Copying and distribution for commercial purposes is not allowed. Changing or manipulating the material is not allowed.",
+                "LicenseURL": "https://www.whocc.no/copyright_disclaimer/",
+                "ANID": 24386586
+            },
+            {
+                "ReferenceNumber": 14,
+                "SourceName": "Wikipedia",
+                "SourceID": "c_8160",
+                "Name": "Alfacalcidol",
+                "Description": "Link to the chemical information in Wikipedia.",
+                "URL": "https://en.wikipedia.org/wiki/Alfacalcidol",
+                "ANID": 24329696
+            },
+            {
+                "ReferenceNumber": 15,
+                "SourceName": "PubChem",
+                "SourceID": "PubChem",
+                "Description": "Data deposited in or computed by PubChem",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov"
+            },
+            {
+                "ReferenceNumber": 16,
+                "SourceName": "Medical Subject Headings (MeSH)",
+                "SourceID": "67008088",
+                "Name": "alfacalcidol",
+                "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+                "URL": "https://www.ncbi.nlm.nih.gov/mesh/67008088",
+                "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+                "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+            },
+            {
+                "ReferenceNumber": 17,
+                "SourceName": "Medical Subject Headings (MeSH)",
+                "SourceID": "DescTree",
+                "Name": "MeSH Tree",
+                "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+                "URL": "http://www.nlm.nih.gov/mesh/meshhome.html",
+                "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+                "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+            },
+            {
+                "ReferenceNumber": 19,
+                "SourceName": "WHO Anatomical Therapeutic Chemical (ATC) Classification",
+                "SourceID": "ATCTree",
+                "Name": "ATC Code",
+                "Description": "In the World Health Organization (WHO) Anatomical Therapeutic Chemical (ATC) classification system, the active substances are divided into different groups according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties.",
+                "URL": "https://www.whocc.no/atc_ddd_index/",
+                "LicenseNote": "Use of all or parts of the material requires reference to the WHO Collaborating Centre for Drug Statistics Methodology. Copying and distribution for commercial purposes is not allowed. Changing or manipulating the material is not allowed.",
+                "LicenseURL": "https://www.whocc.no/copyright_disclaimer/"
+            },
+            {
+                "ReferenceNumber": 20,
+                "SourceName": "GHS Classification (UNECE)",
+                "SourceID": "UN_GHS_tree",
+                "Name": "GHS Classification Tree",
+                "Description": "The United Nations' Globally Harmonized System of Classification and Labeling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures. It sets up criteria for the classification of chemicals for physical-chemical, health, and environmental hazards of chemical substances and mixtures and sets up standardized hazard information to facilitate global trade of chemicals.  Please note that obsolete codes are added in this classification for completeness purposes, as they are still in use. Any obsolete codes are annotated as such.",
+                "URL": "http://www.unece.org/trans/danger/publi/ghs/ghs_welcome_e.html"
+            },
+            {
+                "ReferenceNumber": 22,
+                "SourceName": "Medical Subject Headings (MeSH)",
+                "SourceID": "68050071",
+                "Name": "Bone Density Conservation Agents",
+                "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+                "URL": "https://www.ncbi.nlm.nih.gov/mesh/68050071",
+                "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+                "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+            }
+        ]
+    }
+}

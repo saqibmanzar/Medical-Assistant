@@ -5,11 +5,17 @@ import pdb
 import concurrent.futures
 from typing import Any, Dict, List, Optional
 from datetime import datetime
+import json
 
 from transformers import GPT2TokenizerFast
 
 from dataclasses import dataclass
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+
+from sentence_transformers import SentenceTransformer
+
+# 1. Load a pretrained Sentence Transformer model
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
 
 @dataclass
@@ -35,6 +41,13 @@ class DataCollection:
 
         for attempt in range(max_retries):
             try:
+                # New code to read data from local file instead of downloading from API
+                url = f"pubchem_data/compound_{drug_id}.json"
+                if os.path.exists(url):
+                    with open(url) as file:
+                        data = json.load(file)
+                        return data
+
                 url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/{drug_id}/JSON/"
                 response = self.session.get(url, timeout=10)
                 response.raise_for_status()
@@ -150,6 +163,10 @@ class DataCollection:
                 """
                 Here recieve the chunk of data to push for the next step.
                 """
+                for drug in processed_drugs:
+                    # 2. Calculate embeddings by calling model.encode()
+                    embeddings = model.encode(drug)
+                    print(embeddings.shape)
 
 
         except KeyboardInterrupt:
@@ -162,4 +179,4 @@ class DataCollection:
 
 if __name__ == "__main__":
     obj = DataCollection()
-    obj.start_process(drug_id_start=1, drug_id_limit=10)
+    obj.start_process(drug_id_start=1, drug_id_limit=100)

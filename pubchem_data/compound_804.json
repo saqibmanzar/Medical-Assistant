@@ -1,0 +1,2815 @@
+{
+    "Record": {
+        "RecordType": "CID",
+        "RecordNumber": 804,
+        "RecordTitle": "CID 804",
+        "Section": [
+            {
+                "TOCHeading": "Preferred Compound",
+                "Description": "Sometimes changes in PubChem processing result in a different form (such as a tautomer) of a structure being preferred. This shows which CID is the now-preferred version, if it can be determined automatically (which in some rare cases it can't).",
+                "DisplayControls": {
+                    "HideThisSection": true,
+                    "MoveToTop": true
+                },
+                "Information": [
+                    {
+                        "ReferenceNumber": 1,
+                        "Name": "Preferred Compound",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/135402037",
+                        "Value": {
+                            "Number": [
+                                135402037
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Structures",
+                "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+                "Section": [
+                    {
+                        "TOCHeading": "2D Structure",
+                        "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (H\u00e4hnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+                        "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+                        "DisplayControls": {
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 1,
+                                "Name": "2D Structure",
+                                "Value": {
+                                    "Boolean": [
+                                        true
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Names and Identifiers",
+                "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+                "Section": [
+                    {
+                        "TOCHeading": "Computed Descriptors",
+                        "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+                        "Section": [
+                            {
+                                "TOCHeading": "IUPAC Name",
+                                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "IUPAC Name",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "9-[3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-3H-purin-6-one",
+                                                    "Markup": [
+                                                        {
+                                                            "Start": 48,
+                                                            "Length": 1,
+                                                            "Type": "Italics"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "InChI",
+                                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "InChI",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "InChI=1S/C10H12N4O5/c15-1-4-6(16)7(17)10(19-4)14-3-13-5-8(14)11-2-12-9(5)18/h2-4,6-7,10,15-17H,1H2,(H,11,12,18)"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "InChIKey",
+                                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "InChIKey",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "UGQMRVRMYYASKQ-UHFFFAOYSA-N"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "SMILES",
+                                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "SMILES",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "C1=NC(=O)C2=C(N1)N(C=N2)C3C(C(C(O3)CO)O)O"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Molecular Formula",
+                        "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+                        "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+                        "DisplayControls": {
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 1,
+                                "Name": "Molecular Formula",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "C10H12N4O5"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Create Date",
+                        "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+                        "DisplayControls": {
+                            "HideThisSection": true,
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 1,
+                                "Name": "Create Date",
+                                "Value": {
+                                    "DateISO8601": [
+                                        "2005-03-25"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "TOCHeading": "Status",
+                        "Description": "Status of this compound record. \"Non-live\" means this compound is not currently linked to any live substance. This could be because of (1) a substance being revoked by the original data depositor or (2) changes in the deposited structure of a substance or (3) changes in PubChem's chemical structure processing.",
+                        "DisplayControls": {
+                            "HideThisSection": true,
+                            "MoveToTop": true
+                        },
+                        "Information": [
+                            {
+                                "ReferenceNumber": 1,
+                                "Name": "Status",
+                                "Value": {
+                                    "StringWithMarkup": [
+                                        {
+                                            "String": "Non-live",
+                                            "Markup": [
+                                                {
+                                                    "Start": 0,
+                                                    "Length": 8,
+                                                    "Type": "Color",
+                                                    "Extra": "Red"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Chemical and Physical Properties",
+                "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+                "Section": [
+                    {
+                        "TOCHeading": "Computed Properties",
+                        "Description": "Properties of this compound computed from its molecular formula and structure.",
+                        "DisplayControls": {
+                            "CreateTable": {
+                                "FromInformationIn": "Subsections",
+                                "NumberOfColumns": 3,
+                                "ColumnHeadings": [
+                                    "Property Name",
+                                    "Property Value",
+                                    "Reference"
+                                ],
+                                "ColumnContents": [
+                                    "Name",
+                                    "Value",
+                                    "Reference"
+                                ]
+                            }
+                        },
+                        "Section": [
+                            {
+                                "TOCHeading": "Molecular Weight",
+                                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                                "DisplayControls": {
+                                    "MoveToTop": true
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Molecular Weight",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "268.23"
+                                                }
+                                            ],
+                                            "Unit": "g/mol"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "XLogP3",
+                                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "XLogP3",
+                                        "Value": {
+                                            "Number": [
+                                                -2.1
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Hydrogen Bond Donor Count",
+                                "Description": "The number of hydrogen bond donors in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Hydrogen Bond Donor Count",
+                                        "Value": {
+                                            "Number": [
+                                                4
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                                "Description": "The number of hydrogen bond acceptors in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Hydrogen Bond Acceptor Count",
+                                        "Value": {
+                                            "Number": [
+                                                6
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Rotatable Bond Count",
+                                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Rotatable Bond Count",
+                                        "Value": {
+                                            "Number": [
+                                                2
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Exact Mass",
+                                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Exact Mass",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "268.08076950"
+                                                }
+                                            ],
+                                            "Unit": "g/mol"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Monoisotopic Mass",
+                                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Monoisotopic Mass",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "268.08076950"
+                                                }
+                                            ],
+                                            "Unit": "g/mol"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Topological Polar Surface Area",
+                                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Topological Polar Surface Area",
+                                        "Value": {
+                                            "Number": [
+                                                129
+                                            ],
+                                            "Unit": "A^2"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Heavy Atom Count",
+                                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Heavy Atom Count",
+                                        "Value": {
+                                            "Number": [
+                                                19
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Formal Charge",
+                                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Formal Charge",
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Complexity",
+                                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Complexity",
+                                        "Value": {
+                                            "Number": [
+                                                405
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Isotope Atom Count",
+                                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Isotope Atom Count",
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Defined Atom Stereocenter Count",
+                                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Defined Atom Stereocenter Count",
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Undefined Atom Stereocenter Count",
+                                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Undefined Atom Stereocenter Count",
+                                        "Value": {
+                                            "Number": [
+                                                4
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Defined Bond Stereocenter Count",
+                                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Defined Bond Stereocenter Count",
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Undefined Bond Stereocenter Count",
+                                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Undefined Bond Stereocenter Count",
+                                        "Value": {
+                                            "Number": [
+                                                0
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Covalently-Bonded Unit Count",
+                                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Covalently-Bonded Unit Count",
+                                        "Value": {
+                                            "Number": [
+                                                1
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "TOCHeading": "Compound Is Canonicalized",
+                                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Compound Is Canonicalized",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "Yes"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Related Records",
+                "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+                "Section": [
+                    {
+                        "TOCHeading": "Substances",
+                        "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+                        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+                        "Section": [
+                            {
+                                "TOCHeading": "Related Substances",
+                                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                                "DisplayControls": {
+                                    "CreateTable": {
+                                        "FromInformationIn": "ThisSection",
+                                        "NumberOfColumns": 2,
+                                        "ColumnContents": [
+                                            "Name",
+                                            "Value"
+                                        ]
+                                    },
+                                    "ShowAtMost": 1
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/2827/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 2827 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/39230/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 39230 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/64875/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 64875 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/82891/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 82891 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/82891/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 82891 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/328201/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 328201 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/328283/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 328283 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/403910/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 403910 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/403910/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 403910 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/475268/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 475268 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/475268/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 475268 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/569059/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 569059 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/569059/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 569059 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/570412/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 570412 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/570412/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 570412 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/570413/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 570413 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/570413/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 570413 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/570957/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 570957 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/570957/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 570957 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/571857/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 571857 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/571857/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 571857 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/8150800/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 8150800 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/8150800/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 8150800 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/8150800/version/4",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 8150800 version 4"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/8150800/version/5",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 8150800 version 5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/10296947/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 10296947 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/10296947/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 10296947 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/10409718/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 10409718 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/10409798/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 10409798 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/11039562/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 11039562 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/11211736/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 11211736 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/11454435/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 11454435 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/24895453/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 24895453 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/24895453/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 24895453 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/24895453/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 24895453 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/24896123/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 24896123 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/24896123/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 24896123 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/24896123/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 24896123 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/24957621/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 24957621 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/24957621/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 24957621 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/24957621/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 24957621 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/24957621/version/4",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 24957621 version 4"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/26080960/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 26080960 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/26080960/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 26080960 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/26080960/version/4",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 26080960 version 4"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/26080960/version/5",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 26080960 version 5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/29367797/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 29367797 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/29450274/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 29450274 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/29502148/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 29502148 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/29627271/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 29627271 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/30072599/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 30072599 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/30072600/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 30072600 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/30130401/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 30130401 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/30335823/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 30335823 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/30704754/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 30704754 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/30966735/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 30966735 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/31653692/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 31653692 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/32453676/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 32453676 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/32498195/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 32498195 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/32546877/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 32546877 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/32624804/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 32624804 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/33140462/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 33140462 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/33487263/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 33487263 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/33604652/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 33604652 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/33662161/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 33662161 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/33669674/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 33669674 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/33685703/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 33685703 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/33903959/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 33903959 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/35233589/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 35233589 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/35233599/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 35233599 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/35233935/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 35233935 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/35234231/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 35234231 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/35234530/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 35234530 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/35234921/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 35234921 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/35234969/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 35234969 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/35235257/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 35235257 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/35236249/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 35236249 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/35236387/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 35236387 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/35236614/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 35236614 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/36016499/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 36016499 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/36518068/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 36518068 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/36518268/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 36518268 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/36519030/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 36519030 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/36535789/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 36535789 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/36659479/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 36659479 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/36715010/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 36715010 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/36741966/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 36741966 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/37268550/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 37268550 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/37336798/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 37336798 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/37480287/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 37480287 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/37614886/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 37614886 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/38232951/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 38232951 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/38289167/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 38289167 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/38333937/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 38333937 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/39839854/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 39839854 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/41616805/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 41616805 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/45111080/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 45111080 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/46297744/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 46297744 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/48367611/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 48367611 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/48436225/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 48436225 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/48436225/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 48436225 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/48464255/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 48464255 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/50219444/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 50219444 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/50731381/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 50731381 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/52781751/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 52781751 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/55994276/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 55994276 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/57726050/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 57726050 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/57726050/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 57726050 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/57726050/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 57726050 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/83547889/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 83547889 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/83547889/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 83547889 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/85311279/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 85311279 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/88828888/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 88828888 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/88828888/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 88828888 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/88828888/version/4",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 88828888 version 4"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/88828888/version/6",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 88828888 version 6"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/89362877/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 89362877 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/91704622/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 91704622 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/92216074/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 92216074 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/93576695/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 93576695 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/93576695/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 93576695 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/103934579/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 103934579 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/103934579/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 103934579 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/106197322/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 106197322 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/117905532/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 117905532 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/117905532/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 117905532 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/118195288/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 118195288 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/118855927/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 118855927 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/125237289/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 125237289 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/125237289/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 125237289 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/125237289/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 125237289 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/125793565/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 125793565 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/129365655/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 129365655 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/129365655/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 129365655 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/129365655/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 129365655 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/129365655/version/4",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 129365655 version 4"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/131874483/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 131874483 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/137232196/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 137232196 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/137232196/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 137232196 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/152039050/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 152039050 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/155213158/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 155213158 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/155993600/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 155993600 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/162212203/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 162212203 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/162212203/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 162212203 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/162212203/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 162212203 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/164108921/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 164108921 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/164108921/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 164108921 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/164108921/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 164108921 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/170359934/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 170359934 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/184021845/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 184021845 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/188046787/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 188046787 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/188046788/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 188046788 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/188047181/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 188047181 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/210881910/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 210881910 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/222585837/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 222585837 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/222585837/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 222585837 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/222598992/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 222598992 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/222598992/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 222598992 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/223231855/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 223231855 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/242084229/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 242084229 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/242084229/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 242084229 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/253708396/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 253708396 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/254519459/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 254519459 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/254520853/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 254520853 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/254521625/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 254521625 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/254523614/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 254523614 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/254525342/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 254525342 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/312695156/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 312695156 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/312695156/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 312695156 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/312695156/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 312695156 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/312695156/version/5",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 312695156 version 5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/312695156/version/6",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 312695156 version 6"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/312695156/version/7",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 312695156 version 7"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/312695156/version/8",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 312695156 version 8"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/312695156/version/9",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 312695156 version 9"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/312700383/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 312700383 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/312700383/version/3",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 312700383 version 3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/313367828/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 313367828 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/316562173/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 316562173 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/316571256/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 316571256 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/316571256/version/2",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 316571256 version 2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/318476053/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 318476053 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/318483553/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 318483553 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/360836452/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 360836452 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/362922569/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 362922569 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/363181505/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 363181505 version 1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Name": "Old substance",
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/363663812/version/1",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "SID 363663812 version 1"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Reference": [
+            {
+                "ReferenceNumber": 1,
+                "SourceName": "PubChem",
+                "SourceID": "PubChem",
+                "Description": "Data deposited in or computed by PubChem",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov"
+            }
+        ]
+    }
+}
