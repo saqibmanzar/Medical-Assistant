@@ -3,6 +3,7 @@ import requests
 import os
 import pdb
 import concurrent.futures
+import json
 from typing import Any, Dict, List, Optional
 from datetime import datetime
 
@@ -19,6 +20,7 @@ class DrugDetails:
 
 class DataCollection:
     def __init__(self):
+        self.output_file = "flattened_chunks.json"
         self.session = requests.Session()
         self.toc_heading = ["Names and Identifiers", "Drug and Medication Information"]
         self.tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
@@ -128,11 +130,11 @@ class DataCollection:
         total_batches = len(batches)
 
         try:
+            processed_drugs = []
             for batch_num, batch in enumerate(batches, start=1):
                 print(f"\nProcessing batch {batch_num}/{total_batches}...")
-                processed_drugs = []
-
-                with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+                
+                with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
                     future_to_id = {executor.submit(self.drug_download, drug_id): drug_id for drug_id in batch}
                     
                     for future in concurrent.futures.as_completed(future_to_id):
@@ -146,10 +148,19 @@ class DataCollection:
                         except Exception as e:
                             print(f"Error processing drug ID {drug_id}: {e}")
 
-                # pdb.set_trace()
-                """
-                Here recieve the chunk of data to push for the next step.
-                """
+            flattened_data = []
+            for drug_data in processed_drugs:
+                for entry in drug_data:
+                    flattened_data.append({
+                        "title": entry["title"],
+                        "heading": entry["heading"],
+                        "chunk": entry["chunk"]
+                    })
+            
+            # Save to JSON file
+            with open(self.output_file, 'w') as f:
+                json.dump(flattened_data, f, indent=4)
+            print(f"Flattened data saved to {self.output_file}")
 
 
         except KeyboardInterrupt:
@@ -162,4 +173,4 @@ class DataCollection:
 
 if __name__ == "__main__":
     obj = DataCollection()
-    obj.start_process(drug_id_start=1, drug_id_limit=10)
+    obj.start_process(drug_id_start=1, drug_id_limit=1000)

@@ -1,0 +1,4 @@
+venv/
+embeddings/
+source/*.json
+source/faiss_index
