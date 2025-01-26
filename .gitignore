@@ -1,4 +1,5 @@
 venv/
-embeddings/
 source/*.json
 source/faiss_index
+.venv
+.idea
