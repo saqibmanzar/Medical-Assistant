@@ -45,7 +45,7 @@ class FAISSChatInterface:
         data_dir = os.path.join(app_root, self.embeddings_dir)
         for file in os.listdir(data_dir):
             if file.endswith(".json"):
-                with open(os.path.join(self.embeddings_dir, file), "r") as f:
+                with open(os.path.join(app_root, self.embeddings_dir, file), "r") as f:
                     data = json.load(f)
                 for entry in data:
                     embedding = np.array(entry["embedding"]).astype('float32')
