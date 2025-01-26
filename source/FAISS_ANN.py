@@ -9,7 +9,7 @@ from sentence_transformers import SentenceTransformer
 
 class FAISSChatInterface:
     def __init__(self):
-        self.embeddings_dir = "../embeddings"
+        self.embeddings_dir = "embeddings"
         self.index_file = "faiss_index"
         self.model_name = 'all-MiniLM-L6-v2'
         self.model = SentenceTransformer(self.model_name)
