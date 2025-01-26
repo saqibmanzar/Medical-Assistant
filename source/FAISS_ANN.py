@@ -2,10 +2,12 @@ import os
 import json
 import faiss
 import requests
+from dotenv import load_dotenv
 import numpy as np
 import streamlit as st
 from sentence_transformers import SentenceTransformer
 
+load_dotenv()
 
 class FAISSChatInterface:
     def __init__(self):
@@ -15,7 +17,7 @@ class FAISSChatInterface:
         self.model = SentenceTransformer(self.model_name)
         self.index = None
         self.metadata = []
-        self.api_token = st.secrets["API_KEY"]
+        self.api_token = os.getenv('API_KEY')
         self.llm_model = 'sophosympatheia/rogue-rose-103b-v0.2:free'
         self.llm_api_url = "https://openrouter.ai/api/v1/chat/completions"
 
@@ -39,7 +41,9 @@ class FAISSChatInterface:
             print("FAISS index created and saved.")
 
     def add_embeddings_to_index(self):
-        for file in os.listdir(self.embeddings_dir):
+        app_root = os.path.dirname(os.path.abspath(__file__))
+        data_dir = os.path.join(app_root, self.embeddings_dir)
+        for file in os.listdir(data_dir):
             if file.endswith(".json"):
                 with open(os.path.join(self.embeddings_dir, file), "r") as f:
                     data = json.load(f)
